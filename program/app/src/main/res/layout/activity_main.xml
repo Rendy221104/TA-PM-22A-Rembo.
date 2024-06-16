@@ -142,5 +142,14 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/linearLayout3">
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="Tentang Kami"
+        android:textColor="@color/white"
+    </LinearLayout>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
