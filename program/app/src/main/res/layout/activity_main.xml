@@ -149,6 +149,8 @@
         android:gravity="center"
         android:text="Tentang Kami"
         android:textColor="@color/white"
+        android:textSize="20sp"
+
     </LinearLayout>
 
 
