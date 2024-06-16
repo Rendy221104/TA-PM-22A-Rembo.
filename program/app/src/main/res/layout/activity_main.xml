@@ -118,9 +118,15 @@
         android:textSize="30sp"
         android:textStyle="bold" />
 
-
-
     </androidx.cardview.widget.CardView>
+
+    <FrameLayout
+        android:id="@+id/frameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
