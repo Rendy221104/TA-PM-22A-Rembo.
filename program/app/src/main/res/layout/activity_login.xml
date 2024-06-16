@@ -67,7 +67,8 @@
         android:layout_height="match_parent"
         android:gravity="center_horizontal"
         android:orientation="horizontal"
-        app:layout_constraintEnd_toEndOf="@+id/btnLogin" >
+        app:layout_constraintEnd_toEndOf="@+id/btnLogin"
+        app:layout_constraintStart_toStartOf="@+id/btnLogin" >
 
 
 
