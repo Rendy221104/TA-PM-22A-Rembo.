@@ -47,6 +47,31 @@
             android:layout_margin="15dp"
             app:srcCompat="@drawable/recent" />
 
+        <TextView
+            android:id="@+id/txMenu"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_weight="1"
+            android:text="Jenis Obat"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"/>
+    </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cdPupuk"
+            android:layout_width="0dp"
+            android:layout_height="190dp"
+            android:layout_margin="20dp"
+            android:layout_weight="1"
+            app:cardBackgroundColor="#E1E3E5"
+            app:cardCornerRadius="20dp">
+
+
+
 
 
     </LinearLayout>
