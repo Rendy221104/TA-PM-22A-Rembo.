@@ -169,5 +169,6 @@ cd<?xml version="1.0" encoding="utf-8"?>
         android:gravity="center"
         android:orientation="horizontal"
         app:layout_constraintBottom_toBottomOf="@+id/linearLayout3"
+        app:layout_constraintEnd_toEndOf="parent"
 >>>>>>> 9b348b68de09c963ffff9c0fccb19945c865f006
 </androidx.constraintlayout.widget.ConstraintLayout>
