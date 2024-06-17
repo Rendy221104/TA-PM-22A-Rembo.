@@ -13,6 +13,13 @@
         android:theme="@style/Theme.Smart_Farming"
         tools:targetApi="31">
         <activity
+            android:name=".TentangActivity"
+            android:exported="false"
+            android:label="@string/title_activity_tentang" />
+        <activity
+            android:name=".tentangActivity"
+            android:exported="false" />
+        <activity
             android:name=".web_view_Activity"
             android:exported="false" />
         <activity
