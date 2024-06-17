@@ -7,6 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".SignupActivity">
 
+<<<<<<< HEAD
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"
@@ -14,4 +15,14 @@
         android:text="Button"
         tools:layout_editor_absoluteX="172dp"
         tools:layout_editor_absoluteY="230dp" />
+=======
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="150dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/background_login" />
+>>>>>>> e524b43043236aa34cbb05b32471d8f50c31e89d
 </androidx.constraintlayout.widget.ConstraintLayout>
