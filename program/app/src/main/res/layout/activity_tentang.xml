@@ -26,4 +26,5 @@
         android:layout_marginRight="30dp"
         android:gravity="center"
         android:textColor="@color/black"
+        android:textSize="18dp"
 </androidx.constraintlayout.widget.ConstraintLayout>
