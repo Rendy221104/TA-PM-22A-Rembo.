@@ -24,5 +24,14 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:srcCompat="@drawable/background_login" />
+<<<<<<< HEAD
 >>>>>>> e524b43043236aa34cbb05b32471d8f50c31e89d
+=======
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+>>>>>>> 534c1b526e65717c78744548264b0ef7ac6ebdac
 </androidx.constraintlayout.widget.ConstraintLayout>
