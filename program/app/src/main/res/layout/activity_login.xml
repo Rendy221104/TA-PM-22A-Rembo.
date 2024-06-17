@@ -73,10 +73,10 @@
 
 
         <TextView
-            android:id="@+id/textView2"
+            android:id="@+id/txtLgn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
+            android:layout_marginTop="25dp"
             android:text="TextView" />
     </LinearLayout>
 
