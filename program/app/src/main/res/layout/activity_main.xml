@@ -159,7 +159,7 @@ cd<?xml version="1.0" encoding="utf-8"?>
 
     <LinearLayout
         android:id="@+id/Logout"
-
-
+        android:layout_width="wrap_content"
+        android:layout_height="46dp"
 >>>>>>> 9b348b68de09c963ffff9c0fccb19945c865f006
 </androidx.constraintlayout.widget.ConstraintLayout>
