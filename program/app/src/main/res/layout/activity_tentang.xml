@@ -15,4 +15,5 @@
         android:textStyle="bold"
         android:layout_marginTop="70dp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
 </androidx.constraintlayout.widget.ConstraintLayout>
