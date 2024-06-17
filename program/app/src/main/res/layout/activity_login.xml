@@ -93,7 +93,6 @@
             android:text="Sign Up"
             android:textColor="#2196F3" />
 
-
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
