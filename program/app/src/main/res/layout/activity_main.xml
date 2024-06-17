@@ -178,6 +178,8 @@ cd<?xml version="1.0" encoding="utf-8"?>
             android:layout_weight="1"
             android:layout_margin="10dp"
             android:gravity="center"
+            android:text="Log out"
+
     </LinearLayout>
 
 
