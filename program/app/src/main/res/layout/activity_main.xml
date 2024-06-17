@@ -7,8 +7,6 @@ cd<?xml version="1.0" encoding="utf-8"?>
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-<<<<<<< HEAD
-
     =======
 
     <LinearLayout
@@ -157,7 +155,7 @@ cd<?xml version="1.0" encoding="utf-8"?>
         android:textStyle="bold" />
     </LinearLayout>
 
-    <LinearLayout
+    <LinearLayou
         android:id="@+id/Logout"
         android:layout_width="wrap_content"
         android:layout_height="46dp"
@@ -183,8 +181,8 @@ cd<?xml version="1.0" encoding="utf-8"?>
             android:textSize="20sp"
             android:textStyle="bold"/>
 
-    </LinearLayout>
-
-
+    </LinearLayou>
+    <LinearLayout
+    android:id="@+id/Logout"
 >>>>>>> 9b348b68de09c963ffff9c0fccb19945c865f006
 </androidx.constraintlayout.widget.ConstraintLayout>
