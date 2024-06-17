@@ -14,4 +14,5 @@
         android:textColor="@color/black"
         android:textStyle="bold"
         android:layout_marginTop="70dp"
+        app:layout_constraintEnd_toEndOf="parent"
 </androidx.constraintlayout.widget.ConstraintLayout>
