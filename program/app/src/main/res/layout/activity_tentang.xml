@@ -12,4 +12,5 @@
         android:layout_height="wrap_content"
         android:text="Tentang Aplikasi"
         android:textColor="@color/black"
+        android:textStyle="bold"
 </androidx.constraintlayout.widget.ConstraintLayout>
