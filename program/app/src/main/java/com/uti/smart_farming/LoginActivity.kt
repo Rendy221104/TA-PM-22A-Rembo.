@@ -22,7 +22,8 @@ class LoginActivity : AppCompatActivity() {
         val binding = ActivityLoginBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-//
+//      event btnLogin
+
         enableEdgeToEdge()
         setContentView(R.layout.activity_login)
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
