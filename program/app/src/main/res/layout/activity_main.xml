@@ -180,6 +180,7 @@ cd<?xml version="1.0" encoding="utf-8"?>
             android:gravity="center"
             android:text="Log out"
             android:textColor="@color/white"
+            android:textSize="20sp"
 
     </LinearLayout>
 
